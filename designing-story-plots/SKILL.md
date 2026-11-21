@@ -1,6 +1,6 @@
 ---
 name: designing-story-plots
-description: Designs engaging story plots, manga proposals, and narrative blueprints focused on thematic conflict, emotional pacing, and character function rather than mere event lists. Use when asked to brainstorm a story, draft a manga or novel plot, create a プロット/企画書/あらすじ, or design characters, worldviews, and endings for fiction.
+description: 単なる出来事の羅列ではなく、価値観の対立・読者の感情推移・キャラクターの機能と対比に焦点を当てた物語プロットや漫画・小説の企画書を設計する。ストーリーのアイデア出し、プロット・あらすじ・企画書の作成や推敲、世界観やキャラクター・結末の設計を求められたときに使用する。
 metadata:
   version: "1.0"
 ---
